@@ -1,0 +1,1 @@
+var stopRecognition = new TaskCompletionSource<int>();
