@@ -1,0 +1,4 @@
+@ <entity-type> <entity-name>
+
+
+@ <entity-type> <entity-name> [[hasRole[s]] <comma-separated-list-of-roles>] [hasFeature[s] <comma-separated-list-of-features>]

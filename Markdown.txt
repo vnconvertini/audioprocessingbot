@@ -1,0 +1,10 @@
+{
+  "kind": "Acoustic",
+  "contentUrl": "https://contoso.com/mydatasetlocation",
+  "locale": "en-US",
+  "displayName": "My speech dataset name",
+  "description": "My speech dataset description",
+  "project": {
+    "self": "https://westeurope.api.cognitive.microsoft.com/speechtotext/v3.0/projects/c1c643ae-7da5-4e38-9853-e56e840efcb2"
+  }
+}

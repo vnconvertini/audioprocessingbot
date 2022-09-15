@@ -1,0 +1,23 @@
+> Define the city machine-learned entity
+@ ml city
+
+> Define the bookFlight intent with sample utterances that contain the machine-learned entities
+# bookFlight
+- Book a flight from {@city = Cairo} to {@city = Seattle}
+- Get me 2 tickets for a flight to {@city = Bangalore}
+- Purchase ticket from {@city = Washington} to {@city = Tampa Bay}
+
+
+Book a flight from {@city:departure = Cairo} to {@city:destination = Seattle}
+
+
+@ prebuilt number
+@ list sizeList
+@ list crustList
+@ list toppingList
+
+@ ml pizzaOrder
+    - @ number Quantity
+    - @ sizeList Size
+    - @ crustList Crust
+    - @ toppingList Topping

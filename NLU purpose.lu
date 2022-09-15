@@ -1,0 +1,23 @@
+# <intent-name>
+    - <utterance1>
+    - <utterance2>
+
+
+> Use ">" to create a comment in your .lu files.
+> Use multiple comment ">" characters to define outlining
+> sections in the file to help you organize the content.
+
+>> Primary intents
+# BookFlight
+- Book me a flight to Maui next week
+- Fly me to Maui on the 17th
+- I need a plane ticket next Friday to Maui
+
+# Greeting
+- Hi
+- Hello
+- Good afternoon
+
+>> Secondary intents
+# CheckWeather
+- What's the weather like in Maui next week?
